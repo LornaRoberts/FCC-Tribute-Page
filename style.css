@@ -1,0 +1,39 @@
+a {
+  color: black;
+}
+
+body {  background-color: #c5effc;
+  font-family: Arial;
+  }
+  
+ hr {
+   height: 2px;
+  border: solid;
+ background-color: black;
+ } 
+
+h1 {
+  font-size: 3rem;
+  text-align: center;
+  margin: 10px;
+  word-wrap: break-word;
+  }
+
+ h2 {
+   text-justify: auto;
+ } 
+
+#image {
+  max-width: 100%;
+  object-fit: contain;  margin: auto 0;
+  padding: -20px;
+  display: block;
+}
+
+#img-caption {
+  font-size: 0.75rem;
+}
+
+#img-div {
+  margin: 0;
+}
